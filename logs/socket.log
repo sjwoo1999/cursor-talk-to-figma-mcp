@@ -1,0 +1,9 @@
+WebSocket server running on port 3055
+New client connected
+New client connected
+New client connected
+New client connected
+Received message from client: {"type":"join","channel":"1sucgwjo"}
+Sending message to client: undefined
+Received message from client: {"id":"62d09579-cee6-4e38-ae1f-888249c7802a","type":"join","channel":"1sucgwjo","message":{"id":"62d09579-cee6-4e38-ae1f-888249c7802a","command":"join","params":{"channel":"1sucgwjo","commandId":"62d09579-cee6-4e38-ae1f-888249c7802a"}}}
+Sending message to client: 62d09579-cee6-4e38-ae1f-888249c7802a
